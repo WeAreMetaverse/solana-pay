@@ -6,9 +6,6 @@ export const BBXIcon: FC<SVGProps<SVGSVGElement>> = ({ width = 32, height = 32 }
         <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="40.000000pt" height="40.000000pt" viewBox="0 0 300.000000 300.000000"
  preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.10, written by Peter Selinger 2001-2011
-</metadata>
 <g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)"
 fill="#d69f16" stroke="none">
 <path d="M1486 2908 c-2 -7 -7 -51 -10 -98 -4 -68 -28 -196 -39 -206 -3 -3
